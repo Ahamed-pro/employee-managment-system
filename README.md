@@ -1,0 +1,1 @@
+The Employee Management System is a Java-based desktop application designed to efficiently manage employee records within an organization. It allows administrators to perform essential operations such as adding new employees, updating existing employee details, deleting records, and viewing employee information in a structured format.
